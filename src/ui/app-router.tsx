@@ -25,7 +25,6 @@ import Home from "./pages/home";
 import SettingsRouter from "./pages/settings/_router";
 import SSWSanityCheck from "./pages/ssw-sanity-check";
 // import init, { AlphaStrikeUnit, add_testing, MULUnit } from "btlibs";
-let pjson = require('../../package.json');
 
 
 export default class AppRouter extends React.Component<IAppRouterProps, IAppRouterState> {
@@ -416,7 +415,7 @@ export default class AppRouter extends React.Component<IAppRouterProps, IAppRout
         callAnalytics(
             window,
             appGlobals.sessionUUID,
-            pjson.version,
+            APP_VERSION,
         );
 
         if( subTitle ) {
@@ -519,57 +518,57 @@ export default class AppRouter extends React.Component<IAppRouterProps, IAppRout
             <Router>
 
             <Routes>
-                <Route path={`${process.env.PUBLIC_URL}/`} element={
+                <Route path={`${import.meta.env.BASE_URL}/`} element={
                     <Home
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
-                {/* <Route path={`${process.env.PUBLIC_URL}/page1`} >
+                {/* <Route path={`${import.meta.env.BASE_URL}/page1`} >
                     <Page1
                         appGlobals={this.state.appGlobals}
                     />
                 </Route> */}
-                <Route path={`${process.env.PUBLIC_URL}/equipment-editor`}   element={
+                <Route path={`${import.meta.env.BASE_URL}/equipment-editor`}   element={
                     <EquipmentEditor
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
 
-                <Route path={`${process.env.PUBLIC_URL}/ssw-sanity-check`}   element={
+                <Route path={`${import.meta.env.BASE_URL}/ssw-sanity-check`}   element={
                     <SSWSanityCheck
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
 
-                <Route path={`${process.env.PUBLIC_URL}/dev-status`}    element={
+                <Route path={`${import.meta.env.BASE_URL}/dev-status`}    element={
                     <DevelopmentStatus
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
-                <Route path={`${process.env.PUBLIC_URL}/about`}  element={
+                <Route path={`${import.meta.env.BASE_URL}/about`}  element={
                     <About
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
-                <Route path={`${process.env.PUBLIC_URL}/settings/*`}  element={
+                <Route path={`${import.meta.env.BASE_URL}/settings/*`}  element={
                     <SettingsRouter
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
-                <Route path={`${process.env.PUBLIC_URL}/alpha-strike-roster/*`}  element={
-                    <Navigate to={`${process.env.PUBLIC_URL}/alpha-strike/roster/`} />
+                <Route path={`${import.meta.env.BASE_URL}/alpha-strike-roster/*`}  element={
+                    <Navigate to={`${import.meta.env.BASE_URL}/alpha-strike/roster/`} />
                 } />
 
-                <Route path={`${process.env.PUBLIC_URL}/mech-creator/*`}  element={
-                    <Navigate to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/`} />
+                <Route path={`${import.meta.env.BASE_URL}/mech-creator/*`}  element={
+                    <Navigate to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/`} />
                 } />
 
-                <Route path={`${process.env.PUBLIC_URL}/alpha-strike/*`}  element={
+                <Route path={`${import.meta.env.BASE_URL}/alpha-strike/*`}  element={
                     <AlphaStrikeRouter
                         appGlobals={this.state.appGlobals}
                     />
                 }/>
-                <Route path={`${process.env.PUBLIC_URL}/classic-battletech/*`}  element={
+                <Route path={`${import.meta.env.BASE_URL}/classic-battletech/*`}  element={
                     <ClassicBattleTechRouter
                         appGlobals={this.state.appGlobals}
                     />

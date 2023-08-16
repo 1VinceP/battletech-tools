@@ -4,14 +4,13 @@
   "private": true,
   "homepage": "https://jdgwf.github.io/battletech-tools",
   "scripts": {
-    "start": "react-scripts start",
-    "dev": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "vite",
+    "dev": "vite",
+    "build": "tsc && vite build",
     "build-cli": "tsc --build tsconfig-cli.json",
-    "predeploy": "npm run  build",
-    "deploy": "gh-pages -d build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,7 +38,6 @@
     "react-game-icons": "^1.1.0",
     "react-icons": "^4.4.0",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "^5.0.1",
     "sanitize-html": "^2.7.0",
     "session-storage-sync": "^0.6.0",
     "uuid": "^8.3.2"
@@ -53,8 +51,13 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/sanitize-html": "^2.6.2",
     "@types/uuid": "^8.3.4",
+    "@vitejs/plugin-react-swc": "^3.3.2",
     "gh-pages": "^4.0.0",
     "sass": "^1.52.2",
-    "typescript": "^4.7.2"
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9",
+    "vite-plugin-checker": "^0.6.1",
+    "vite-plugin-svgr": "^3.2.0",
+    "vite-tsconfig-paths": "^4.2.0"
   }
 }

@@ -207,10 +207,10 @@ export default class TopMenu extends React.Component<ITopMenuProps, ITopMenuStat
                         <React.Fragment key={itemIndex}>
                             {item.startsWithTag && item.subMenu && item.subMenu.length > 0 ? (
                                 <>
-                                    <li className="d-none d-md-inline"><Link className={this.props.current?.startsWith(item.startsWithTag) ? "current" : "" } to={`${process.env.PUBLIC_URL}${item.url}`}>{item.label}</Link></li>
+                                    <li className="d-none d-md-inline"><Link className={this.props.current?.startsWith(item.startsWithTag) ? "current" : "" } to={`${import.meta.env.BASE_URL}${item.url}`}>{item.label}</Link></li>
                                 </>
                             ) : (
-                                <li className="d-none d-md-inline"><Link className={this.props.current === item.tag ? "current" : "" } to={`${process.env.PUBLIC_URL}${item.url}`}>{item.label}</Link></li>
+                                <li className="d-none d-md-inline"><Link className={this.props.current === item.tag ? "current" : "" } to={`${import.meta.env.BASE_URL}${item.url}`}>{item.label}</Link></li>
                             )}
 
                         </React.Fragment>
@@ -237,7 +237,7 @@ export default class TopMenu extends React.Component<ITopMenuProps, ITopMenuStat
             <ul className="sub-menu">
                 {currentSubmenu.map( (item, itemIndex) => {
                     return (
-                        <li key={itemIndex} className="d-none d-md-inline"><Link className={this.props.current === item.tag ? "current" : "" } to={`${process.env.PUBLIC_URL}${item.url}`}>{item.label}</Link></li>
+                        <li key={itemIndex} className="d-none d-md-inline"><Link className={this.props.current === item.tag ? "current" : "" } to={`${import.meta.env.BASE_URL}${item.url}`}>{item.label}</Link></li>
                     )
                 })}
             </ul>
@@ -255,14 +255,14 @@ export default class TopMenu extends React.Component<ITopMenuProps, ITopMenuStat
                                 <ul className="sub-menu">
                                     {item.subMenu.map( (subItem, subItemIndex) => {
                                         return (
-                                            <li key={subItemIndex}><Link onClick={this.closeMobile} className={this.props.current === subItem.tag ? "current" : "" } to={`${process.env.PUBLIC_URL}${subItem.url}`}>{subItem.label}</Link></li>
+                                            <li key={subItemIndex}><Link onClick={this.closeMobile} className={this.props.current === subItem.tag ? "current" : "" } to={subItem.url}>{subItem.label}</Link></li>
                                         )
                                     })}
 
                                 </ul>
                             </li>
                             ) : (
-                                <li><Link onClick={this.closeMobile} className={this.props.current === item.tag ? "current" : "" } to={`${process.env.PUBLIC_URL}${item.url}`}>{item.label}</Link></li>
+                                <li><Link onClick={this.closeMobile} className={this.props.current === item.tag ? "current" : "" } to={`${import.meta.env.BASE_URL}${item.url}`}>{item.label}</Link></li>
                             )}
                         </React.Fragment>
                     )

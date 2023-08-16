@@ -56,7 +56,7 @@ export default class AlphaStrikeRosterPrint extends React.Component<IPrintProps,
         <>
           <header className="topmenu">
           <ul className="main-menu">
-                <li><Link title="Click here to leave Play Mode (don't worry, you won't lose your current mech statuses)" className="current" to={`${process.env.PUBLIC_URL}/alpha-strike/roster`}><FaArrowCircleLeft /></Link></li>
+                <li><Link title="Click here to leave Play Mode (don't worry, you won't lose your current mech statuses)" className="current" to={`${import.meta.env.BASE_URL}/alpha-strike/roster`}><FaArrowCircleLeft /></Link></li>
                 <li><span title="Click here open the Print Dialog" onClick={() => window.print()} className="current" ><FaPrint /></span></li>
                 <li>
                   <AlphaStrikeToggleRulerHexes

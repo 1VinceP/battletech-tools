@@ -17,13 +17,13 @@ export default class AlphaStrikeUnitCreatorRouter extends React.Component<IAlpha
                     />
                 }/>
 {/*
-                <Route path={`/play`} element={
+                <Route path={`${import.meta.env.BASE_URL}/play`} element={
                     <InPlay
                         appGlobals={this.props.appGlobals}
                     />
                 }/>
 
-                <Route path={`/print`} element={
+                <Route path={`${import.meta.env.BASE_URL}/print`} element={
                     <PrintSheet
                         appGlobals={this.props.appGlobals}
                     />

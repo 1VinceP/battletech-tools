@@ -24,12 +24,12 @@ export default class ClassicBattleTechHome extends React.Component<IClassicBattl
             label="Classic BattleTech"
           >
               <div className="icon-links">
-                  <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator`}>
+                  <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator`}>
                     <GiMissileMech />
                     'Mech Creator
                   </Link>
 
-                  <Link  to={`${process.env.PUBLIC_URL}/classic-battletech/roster`}>
+                  <Link  to={`${import.meta.env.BASE_URL}/classic-battletech/roster`}>
                     <MdTableView />
                     Classic BattleTech Roster
                   </Link>

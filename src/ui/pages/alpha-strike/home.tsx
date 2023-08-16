@@ -23,7 +23,7 @@ export default class AlphaStrikeHome extends React.Component<IAlphaStrikeHomePro
             label="Alpha Strike"
           >
               <div className="icon-links">
-                <Link  to={`${process.env.PUBLIC_URL}/alpha-strike/roster`}>
+                <Link  to={`${import.meta.env.BASE_URL}/alpha-strike/roster`}>
                   <MdTableView />
                   Alpha Strike Roster
                 </Link>

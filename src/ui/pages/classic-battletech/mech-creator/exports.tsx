@@ -46,9 +46,9 @@ export default class MechCreatorExports extends React.Component<IHomeProps, IHom
                             <hr />
 
                               <div className="text-left">
-                              {/* <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/summary`} className="btn btn-primary btn-sm"><FaArrowCircleLeft /> Summary</Link> */}
-                              <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/imports`} className="btn btn-primary pull-right btn-sm">Imports <FaArrowCircleRight /></Link>
-                              <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/summary`} className="btn btn-primary btn-sm"><FaArrowCircleLeft /> Summary</Link>
+                              {/* <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/summary`} className="btn btn-primary btn-sm"><FaArrowCircleLeft /> Summary</Link> */}
+                              <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/imports`} className="btn btn-primary pull-right btn-sm">Imports <FaArrowCircleRight /></Link>
+                              <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/summary`} className="btn btn-primary btn-sm"><FaArrowCircleLeft /> Summary</Link>
                             </div>
                           </div>
                         </TextSection>

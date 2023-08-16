@@ -18,7 +18,8 @@ import { generateUUID } from "../utils/generateUUID";
 import { ISSWBasicInfo } from "../utils/getSSWXMLBasicInfo";
 import { AlphaStrikeUnit, IAlphaStrikeDamage, IASMULUnit } from "./alpha-strike-unit";
 import Pilot, { IPilot } from "./pilot";
-const { XMLParser } = require( "fast-xml-parser" );
+import { XMLParser } from "fast-xml-parser";
+// const { XMLParser } = require( "fast-xml-parser" );
 
 interface INumericalHash {
     [index: string]: number;
@@ -8939,7 +8940,7 @@ export class BattleMech {
             );
 
             if( !newItem ) {
-                console.warn( "Cannot find any equipment named: '" + itemName + "'" );
+                // console.warn( "Cannot find any equipment named: '" + itemName + "'" );
                 this._sswImportErrors.push( "Cannot find any equipment named: '" + itemName + "'" )
             } else {
 

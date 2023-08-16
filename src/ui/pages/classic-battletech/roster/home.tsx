@@ -178,7 +178,7 @@ export default class BattleMechRosterHome extends React.Component<IHomeProps, IH
             <div className="row">
               <div className="col-6">
                 <Link
-                  to={`${process.env.PUBLIC_URL}/classic-battletech/roster/play`}
+                  to={`${import.meta.env.BASE_URL}/classic-battletech/roster/play`}
                   className="btn btn-primary no-margin full-width"
                   title="Click here to go into 'Play Mode'"
                 >
@@ -188,7 +188,7 @@ export default class BattleMechRosterHome extends React.Component<IHomeProps, IH
               </div>
               <div className="col-6">
                 <Link
-                  to={`${process.env.PUBLIC_URL}/classic-battletech/roster/print`}
+                  to={`${import.meta.env.BASE_URL}/classic-battletech/roster/print`}
                   className="btn btn-primary no-margin full-width"
                   title="Click here to go to a printable version of this page"
                 >

@@ -169,7 +169,7 @@ export default class MechCreatorHome extends React.Component<IHomeProps, IHomeSt
                                 <FaFile />&nbsp;Start Over
                               </button>
                               <Link
-                                to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/step1`}
+                                to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/step1`}
                                 className="btn btn-primary pull-right btn-sm">
                                   Next Step <FaArrowCircleRight />
                               </Link>

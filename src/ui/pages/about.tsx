@@ -3,7 +3,6 @@ import { IAppGlobals } from '../app-router';
 import './about.scss';
 import UIPage from '../components/ui-page';
 import TextSection from '../components/text-section';
-let pjson = require('../../../package.json');
 
 export default class About extends React.Component<IAboutProps, IAboutState> {
 
@@ -17,7 +16,7 @@ export default class About extends React.Component<IAboutProps, IAboutState> {
       return (
     <UIPage current="about" appGlobals={this.props.appGlobals}>
 
-    <div className="text-center">Version {pjson.version}</div>
+    <div className="text-center">Version {APP_VERSION}</div>
 
     <div className="row">
         <div className="col-md-6">

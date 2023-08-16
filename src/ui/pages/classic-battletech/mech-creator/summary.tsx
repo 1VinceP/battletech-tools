@@ -167,13 +167,13 @@ export default class MechCreatorSummary extends React.Component<IHomeProps, IHom
                             </div>
                             <div className="col-lg-6">
                               <h3 className="text-center">Record Sheets</h3>
-                              <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/print-rs`}>
+                              <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/print-rs`}>
                                 <BattleMechSVG
                                   mechData={this.props.appGlobals.currentBattleMech}
                                 />
                               </Link>
                               <br />
-                              <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/print-as`}>
+                              <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/print-as`}>
                                 <AlphaStrikeUnitSVG
                                   appGlobals={this.props.appGlobals}
                                   asUnit={this.props.appGlobals.currentBattleMech.getAlphaStrikeForceStats()}
@@ -207,9 +207,9 @@ export default class MechCreatorSummary extends React.Component<IHomeProps, IHom
 
                           <div className="clear-both overflow-hidden">
                             <hr />
-                          <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/exports`} className="btn btn-sm btn-primary pull-right">Exports <FaArrowCircleRight /></Link>
+                          <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/exports`} className="btn btn-sm btn-primary pull-right">Exports <FaArrowCircleRight /></Link>
                             <div className="inline-block text-left">
-                              <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/step6`} className="btn btn-sm btn-primary"><FaArrowCircleLeft /> Previous Step</Link>
+                              <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/step6`} className="btn btn-sm btn-primary"><FaArrowCircleLeft /> Previous Step</Link>
                             </div>
                           </div>
                         </TextSection>

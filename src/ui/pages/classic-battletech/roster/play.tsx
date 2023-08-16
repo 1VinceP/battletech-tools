@@ -2376,7 +2376,7 @@ export default class ClassicBattleTechRosterPlay extends React.Component<IPlayPr
   ) : null}
           <header className="topmenu">
             <ul className="main-menu">
-                <li><Link title="Click here to leave Play Mode (don't worry, you won't lose your current mech statuses)" className="current" to={`${process.env.PUBLIC_URL}/classic-battletech/roster`}><FaArrowCircleLeft /></Link></li>
+                <li><Link title="Click here to leave Play Mode (don't worry, you won't lose your current mech statuses)" className="current" to={`${import.meta.env.BASE_URL}/classic-battletech/roster`}><FaArrowCircleLeft /></Link></li>
 
                 <li className="logo">
                     <a

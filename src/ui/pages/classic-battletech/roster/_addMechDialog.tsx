@@ -178,7 +178,7 @@ export default class BattleMechAddMechDialog extends React.Component<IBattleMech
               <legend>Your Saved Units</legend>
               {this.props.appGlobals.battleMechSaves.length === 0 ? (
                 <div className='text-center'>
-                    You have no saved 'mechs. Currently this app does not have permission to have any pre-built 'mechs loaded, but you should be able to create existing or new ' mechs in the <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator`}>'Mech Creator</Link>
+                    You have no saved 'mechs. Currently this app does not have permission to have any pre-built 'mechs loaded, but you should be able to create existing or new ' mechs in the <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator`}>'Mech Creator</Link>
                 </div>
               ) : (
                 <table className="table">

@@ -82,7 +82,7 @@ export default class SettingsHome extends React.Component<ISettingsHomeProps, IS
               <div className="col-md-6">
                 <fieldset className="fieldset">
                   <legend>Data Management</legend>
-                    <p>To Backup and Restore your data from another device, visit the <Link to={`${process.env.PUBLIC_URL}/settings/backup-and-restore`}>Backup and Restore</Link> page</p>
+                    <p>To Backup and Restore your data from another device, visit the <Link to={`${import.meta.env.BASE_URL}/settings/backup-and-restore`}>Backup and Restore</Link> page</p>
 {/*
                     <label>
                       Storage Target:<br />

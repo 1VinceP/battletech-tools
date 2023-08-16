@@ -416,7 +416,7 @@ export default class AlphaStrikeRosterHome extends React.Component<IHomeProps, I
             <div className="row">
               <div className="col-6">
                 <Link
-                  to={`${process.env.PUBLIC_URL}/alpha-strike/roster/play`}
+                  to={`${import.meta.env.BASE_URL}/alpha-strike/roster/play`}
                   className="btn btn-primary no-margin full-width"
                   title="Click here to go into 'Play Mode'"
                 >
@@ -426,7 +426,7 @@ export default class AlphaStrikeRosterHome extends React.Component<IHomeProps, I
               </div>
               <div className="col-6">
                 <Link
-                  to={`${process.env.PUBLIC_URL}/alpha-strike/roster/print`}
+                  to={`${import.meta.env.BASE_URL}/alpha-strike/roster/print`}
                   className="btn btn-primary no-margin full-width"
                   title="Click here to go to a printable version of this page"
                 >

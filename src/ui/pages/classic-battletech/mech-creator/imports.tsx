@@ -434,7 +434,7 @@ return (
                             <hr />
 
                               <div className="text-left inline-block">
-                              <Link to={`${process.env.PUBLIC_URL}/classic-battletech/mech-creator/exports`} className="btn btn-primary btn-sm"><FaArrowCircleLeft /> Exports</Link>
+                              <Link to={`${import.meta.env.BASE_URL}/classic-battletech/mech-creator/exports`} className="btn btn-primary btn-sm"><FaArrowCircleLeft /> Exports</Link>
                             </div>
                           </div>
                         </TextSection>
