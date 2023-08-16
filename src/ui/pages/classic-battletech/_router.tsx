@@ -1,49 +1,46 @@
-import * as React from 'react';
+import * as React from "react";
 import { Route, Routes } from "react-router-dom";
-import { IAppGlobals } from '../../app-router';
+import { IAppGlobals } from "../../app-router";
 import Error404 from "../error404";
-import ClassicBattleTechHome from './home';
-import MechCreatorRouter from './mech-creator/_router';
-import BattleMechRosterRouter from './roster/_router';
+import ClassicBattleTechHome from "./home";
+import MechCreatorRouter from "./mech-creator/_router";
+import BattleMechRosterRouter from "./roster/_router";
 
-export default class ClassicBattleTechRouter extends React.Component<IClassicBattleTechRouterProps, IClassicBattleTechRouterState> {
+export default class ClassicBattleTechRouter extends React.Component<
+  IClassicBattleTechRouterProps,
+  IClassicBattleTechRouterState
+> {
+  render = (): JSX.Element => {
+    return (
+      <Routes>
+        <Route
+          path={``}
+          element={<ClassicBattleTechHome appGlobals={this.props.appGlobals} />}
+        />
 
-    render = (): JSX.Element => {
-        return(
-            <Routes>
+        <Route
+          path={`mech-creator/*`}
+          element={<MechCreatorRouter appGlobals={this.props.appGlobals} />}
+        />
 
-                <Route path={``} element={
-                    <ClassicBattleTechHome
-                        appGlobals={this.props.appGlobals}
-                    />
-                }/>
+        <Route
+          path={`roster/*`}
+          element={
+            <BattleMechRosterRouter appGlobals={this.props.appGlobals} />
+          }
+        />
 
-                <Route path={`mech-creator/*`} element={
-                    <MechCreatorRouter
-                        appGlobals={this.props.appGlobals}
-                    />
-                }/>
-
-                <Route path={`roster/*`} element={
-                    <BattleMechRosterRouter
-                        appGlobals={this.props.appGlobals}
-                    />
-                }/>
-
-                <Route path="*" element={
-                    <Error404
-                        appGlobals={this.props.appGlobals}
-                    />
-                }/>
-            </Routes>
-        )
-    }
+        <Route
+          path="*"
+          element={<Error404 appGlobals={this.props.appGlobals} />}
+        />
+      </Routes>
+    );
+  };
 }
 
 interface IClassicBattleTechRouterProps {
-    appGlobals: IAppGlobals;
+  appGlobals: IAppGlobals;
 }
 
-interface IClassicBattleTechRouterState {
-
-}
+interface IClassicBattleTechRouterState {}

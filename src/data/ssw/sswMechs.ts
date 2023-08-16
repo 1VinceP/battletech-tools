@@ -3,7 +3,7 @@
     This data is blatantly and lovingly copied from the Solaris Skunk Werks project at https://github.com/Solaris-Skunk-Werks/SSW-Master
 */
 export const sswMechs: string[] = [
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Archer" model="ARC-2K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1356</battle_value>
@@ -103,7 +103,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Archer" model="ARC-2R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1477</battle_value>
@@ -212,7 +212,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Archer" model="ARC-2S" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1393</battle_value>
@@ -341,7 +341,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Archer" model="ARC-2W" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1338</battle_value>
@@ -455,7 +455,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Assassin" model="ASN-101" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>757</battle_value>
@@ -562,7 +562,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Assassin" model="ASN-21" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>749</battle_value>
@@ -656,7 +656,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-D-DC" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1858</battle_value>
@@ -768,7 +768,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-D" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1897</battle_value>
@@ -895,7 +895,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-RS" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1849</battle_value>
@@ -1012,7 +1012,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-8Q" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1605</battle_value>
@@ -1110,7 +1110,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-8R" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1470</battle_value>
@@ -1218,7 +1218,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-8T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1593</battle_value>
@@ -1326,7 +1326,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-8V" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1510</battle_value>
@@ -1434,7 +1434,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-3E" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1422</battle_value>
@@ -1514,7 +1514,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-3M" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1595</battle_value>
@@ -1599,7 +1599,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-3MC" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1487</battle_value>
@@ -1683,7 +1683,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-3Q" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1394</battle_value>
@@ -1782,7 +1782,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-3S (Reinesblatt)" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1678</battle_value>
@@ -1916,7 +1916,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-3S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1751</battle_value>
@@ -2050,7 +2050,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="BattleMaster" model="BLR-1G-DC" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1494</battle_value>
@@ -2168,7 +2168,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Battlemaster" model="BLR-1D" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1522</battle_value>
@@ -2278,7 +2278,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Battlemaster" model="BLR-1G" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1519</battle_value>
@@ -2407,7 +2407,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Battlemaster" model="BLR-1S" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1507</battle_value>
@@ -2528,7 +2528,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Black Knight" model="BL-7-KNT-L" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1409</battle_value>
@@ -2637,7 +2637,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Black Knight" model="BL-7-KNT" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1443</battle_value>
@@ -2744,7 +2744,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-1" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>949</battle_value>
@@ -2849,7 +2849,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-1DB" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1015</battle_value>
@@ -2945,7 +2945,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-1DC" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>917</battle_value>
@@ -3054,7 +3054,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-1X" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>964</battle_value>
@@ -3162,7 +3162,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Bombardier" model="BMB-10D" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1340</battle_value>
@@ -3261,7 +3261,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-1X" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1316</battle_value>
@@ -3360,7 +3360,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-2X" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1344</battle_value>
@@ -3462,7 +3462,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-A1" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1285</battle_value>
@@ -3563,7 +3563,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C1 (Jenny) &quot;Butterbee&quot;" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1242</battle_value>
@@ -3694,7 +3694,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C1" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1399</battle_value>
@@ -3805,7 +3805,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C1b" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1570</battle_value>
@@ -3947,7 +3947,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C4" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1358</battle_value>
@@ -4053,7 +4053,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-K2" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1319</battle_value>
@@ -4157,7 +4157,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-A" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>945</battle_value>
@@ -4258,7 +4258,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-AH" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>945</battle_value>
@@ -4349,7 +4349,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-AL" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1057</battle_value>
@@ -4451,7 +4451,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-YLW &quot;Yen Lo Wang&quot;" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>957</battle_value>
@@ -4547,7 +4547,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Champion" model="CHP-1N2" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\\CJ\\HeavyMetalbv2\\Pro\\Bmps\\Champion.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1233</battle_value>
@@ -4665,7 +4665,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Champion" model="CHP-2N" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1116</battle_value>
@@ -4769,7 +4769,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-1A1" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>981</battle_value>
@@ -4853,7 +4853,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-1A5" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1468</battle_value>
@@ -4953,7 +4953,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-1A9" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1397</battle_value>
@@ -5069,7 +5069,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-1L" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>980</battle_value>
@@ -5143,7 +5143,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-SB &quot;Challenger&quot;" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1604</battle_value>
@@ -5246,7 +5246,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-2A" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>659</battle_value>
@@ -5320,7 +5320,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-2B" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>626</battle_value>
@@ -5394,7 +5394,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-3C" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>771</battle_value>
@@ -5473,7 +5473,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-1-2R" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>707</battle_value>
@@ -5548,7 +5548,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-2-3T (Denton)" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>873</battle_value>
@@ -5636,7 +5636,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-2-3T" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>770</battle_value>
@@ -5725,7 +5725,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-2-4T" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>619</battle_value>
@@ -5805,7 +5805,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-1D" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>558</battle_value>
@@ -5883,7 +5883,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-2D" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>541</battle_value>
@@ -5971,7 +5971,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-3A" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>540</battle_value>
@@ -6059,7 +6059,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crab" model="CRB-20" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1143</battle_value>
@@ -6144,7 +6144,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crusader" model="CRD-3D" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1338</battle_value>
@@ -6252,7 +6252,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crusader" model="CRD-3K" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1290</battle_value>
@@ -6362,7 +6362,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crusader" model="CRD-3L" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1297</battle_value>
@@ -6490,7 +6490,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crusader" model="CRD-3R" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1317</battle_value>
@@ -6609,7 +6609,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-10-HQ" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1113</battle_value>
@@ -6703,7 +6703,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-10-Q" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1584</battle_value>
@@ -6817,7 +6817,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-10-Z" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1317</battle_value>
@@ -6931,7 +6931,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Daboku" model="DCMS-MX90-D" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1290</battle_value>
@@ -7062,7 +7062,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dervish" model="DV-6M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1146</battle_value>
@@ -7179,7 +7179,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dragon" model="DRG-1C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1215</battle_value>
@@ -7273,7 +7273,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dragon" model="DRG-1N" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1125</battle_value>
@@ -7372,7 +7372,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Enforcer" model="ENF-4R" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1032</battle_value>
@@ -7462,7 +7462,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Falcon" model="FLC-4N" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>610</battle_value>
@@ -7565,7 +7565,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>773</battle_value>
@@ -7675,7 +7675,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-H" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>694</battle_value>
@@ -7790,7 +7790,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-K" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>763</battle_value>
@@ -7885,7 +7885,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-M &quot;Mirage&quot;" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>798</battle_value>
@@ -7991,7 +7991,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flashman" model="FLS-7K" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1480</battle_value>
@@ -8101,7 +8101,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flea" model="FLE-15" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>430</battle_value>
@@ -8206,7 +8206,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flea" model="FLE-4" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>432</battle_value>
@@ -8291,7 +8291,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Goliath" model="GOL-1H" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1449</battle_value>
@@ -8395,7 +8395,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grand Dragon" model="DRG-1G" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1300</battle_value>
@@ -8489,7 +8489,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-5H" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1427</battle_value>
@@ -8601,7 +8601,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Griffin" model="GRF-1E &quot;Sparky&quot;" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1449</battle_value>
@@ -8700,7 +8700,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Griffin" model="GRF-1N" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1272</battle_value>
@@ -8788,7 +8788,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Griffin" model="GRF-1S" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1253</battle_value>
@@ -8885,7 +8885,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Guillotine" model="GLT-4L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1400</battle_value>
@@ -8997,7 +8997,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Guillotine" model="GLT-4P" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1376</battle_value>
@@ -9109,7 +9109,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Chi" model="HTM-26T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1536</battle_value>
@@ -9198,7 +9198,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-3F" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>854</battle_value>
@@ -9298,7 +9298,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes" model="HER-1A" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>601</battle_value>
@@ -9372,7 +9372,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes" model="HER-1B" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>687</battle_value>
@@ -9446,7 +9446,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-2M &quot;Mercury&quot;" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>910</battle_value>
@@ -9540,7 +9540,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-2S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>784</battle_value>
@@ -9620,7 +9620,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-4K &quot;Hermes III&quot;" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>976</battle_value>
@@ -9691,7 +9691,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Highlander" model="HGN-733" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1801</battle_value>
@@ -9819,7 +9819,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Highlander" model="HGN-733C" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1857</battle_value>
@@ -9937,7 +9937,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Highlander" model="HGN-733P" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1865</battle_value>
@@ -10062,7 +10062,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hornet" model="HNT-151" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>488</battle_value>
@@ -10155,7 +10155,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hornet" model="HNT-152" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>475</battle_value>
@@ -10248,7 +10248,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4G" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1041</battle_value>
@@ -10342,7 +10342,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4H" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1067</battle_value>
@@ -10446,7 +10446,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4J" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1143</battle_value>
@@ -10561,7 +10561,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4N" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1087</battle_value>
@@ -10675,7 +10675,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4P" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1138</battle_value>
@@ -10794,7 +10794,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4SP" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1043</battle_value>
@@ -10909,7 +10909,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hussar" model="HSR-300-D" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>543</battle_value>
@@ -10973,7 +10973,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hussar" model="HSR-350-D" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>731</battle_value>
@@ -11048,7 +11048,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM6-A" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1122</battle_value>
@@ -11152,7 +11152,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM6-S" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>901</battle_value>
@@ -11256,7 +11256,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-10F &quot;Fire Javelin&quot;" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>835</battle_value>
@@ -11349,7 +11349,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-10N" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>594</battle_value>
@@ -11440,7 +11440,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>712</battle_value>
@@ -11515,7 +11515,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-D" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>875</battle_value>
@@ -11613,7 +11613,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-F" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1011</battle_value>
@@ -11701,7 +11701,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="King Crab" model="KGC-0000" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1810</battle_value>
@@ -11800,7 +11800,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="King Crab" model="KGC-010" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2181</battle_value>
@@ -11953,7 +11953,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Kintaro" model="KTO-18" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1187</battle_value>
@@ -12062,7 +12062,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Lancelot" model="LNC25-01X" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1659</battle_value>
@@ -12176,7 +12176,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Lancelot" model="LNC25-02" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1236</battle_value>
@@ -12265,7 +12265,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Locust" model="LCT-1E" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>553</battle_value>
@@ -12348,7 +12348,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Locust" model="LCT-1L" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>474</battle_value>
@@ -12440,7 +12440,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Locust" model="LCT-1M" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>424</battle_value>
@@ -12523,7 +12523,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Locust" model="LCT-1S" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>440</battle_value>
@@ -12606,7 +12606,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Locust" model="LCT-1V" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>432</battle_value>
@@ -12689,7 +12689,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Locust" model="LCT-3V" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>490</battle_value>
@@ -12777,7 +12777,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Longbow" model="LGB-0W" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1337</battle_value>
@@ -12891,7 +12891,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Marauder II" model="MAD-4A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2073</battle_value>
@@ -12998,7 +12998,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Marauder" model="MAD-3D" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1470</battle_value>
@@ -13090,7 +13090,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Marauder" model="MAD-3L" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1369</battle_value>
@@ -13185,7 +13185,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Marauder" model="MAD-3M" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1335</battle_value>
@@ -13282,7 +13282,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Marauder" model="MAD-3R" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1363</battle_value>
@@ -13375,7 +13375,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mongoose" model="MON-67" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>741</battle_value>
@@ -13456,7 +13456,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mongoose" model="MON-68" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>676</battle_value>
@@ -13523,7 +13523,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-K" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1429</battle_value>
@@ -13632,7 +13632,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-V-DC" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1310</battle_value>
@@ -13736,7 +13736,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-V" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1298</battle_value>
@@ -13855,7 +13855,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-VA" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1328</battle_value>
@@ -13963,7 +13963,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostroc" model="OSR-2C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1228</battle_value>
@@ -14055,7 +14055,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostroc" model="OSR-2L" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1233</battle_value>
@@ -14147,7 +14147,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostroc" model="OSR-2M" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1239</battle_value>
@@ -14227,7 +14227,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostroc" model="OSR-3C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1288</battle_value>
@@ -14304,7 +14304,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostscout" model="OTT-7J" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>596</battle_value>
@@ -14379,7 +14379,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostsol" model="OTL-4D" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1277</battle_value>
@@ -14472,7 +14472,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ostsol" model="OTL-4F" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1264</battle_value>
@@ -14545,7 +14545,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-8Z" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>741</battle_value>
@@ -14635,7 +14635,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-9R" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>769</battle_value>
@@ -14724,7 +14724,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Phoenix Hawk" model="PXH-1" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1041</battle_value>
@@ -14822,7 +14822,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Phoenix Hawk" model="PXH-1D" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1083</battle_value>
@@ -14907,7 +14907,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Phoenix Hawk" model="PXH-1K" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1073</battle_value>
@@ -14989,7 +14989,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-4G" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1192</battle_value>
@@ -15097,7 +15097,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-4H" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1242</battle_value>
@@ -15205,7 +15205,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-5A" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1196</battle_value>
@@ -15317,7 +15317,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-1X" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>639</battle_value>
@@ -15406,7 +15406,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-2X" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>887</battle_value>
@@ -15495,7 +15495,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-3X" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>691</battle_value>
@@ -15593,7 +15593,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-4X" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>820</battle_value>
@@ -15700,7 +15700,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Rifleman" model="RFL-3C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1066</battle_value>
@@ -15790,7 +15790,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Rifleman" model="RFL-3N" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1039</battle_value>
@@ -15885,7 +15885,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Rifleman" model="RFL-4D" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1173</battle_value>
@@ -15970,7 +15970,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Scorpion" model="SCP-1N (Wednall)" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1043</battle_value>
@@ -16044,7 +16044,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Scorpion" model="SCP-1N" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1019</battle_value>
@@ -16118,7 +16118,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Sentinel" model="STN-1S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>632</battle_value>
@@ -16205,7 +16205,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Sentinel" model="STN-3K" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>652</battle_value>
@@ -16295,7 +16295,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Sentinel" model="STN-3KA" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>847</battle_value>
@@ -16378,7 +16378,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Sentinel" model="STN-3KB" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>823</battle_value>
@@ -16461,7 +16461,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shadow Hawk" model="SHD-2D" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>899</battle_value>
@@ -16579,7 +16579,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shadow Hawk" model="SHD-2H" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1064</battle_value>
@@ -16680,7 +16680,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shadow Hawk" model="SHD-2K" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1147</battle_value>
@@ -16766,7 +16766,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-5D" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>524</battle_value>
@@ -16847,7 +16847,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-5K" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>503</battle_value>
@@ -16936,7 +16936,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-5V" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>622</battle_value>
@@ -17017,7 +17017,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-3F" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1559</battle_value>
@@ -17156,7 +17156,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-3H" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1624</battle_value>
@@ -17285,7 +17285,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-4N" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1558</battle_value>
@@ -17420,7 +17420,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-4P" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1461</battle_value>
@@ -17550,7 +17550,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stinger" model="STG-3G" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>497</battle_value>
@@ -17634,7 +17634,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stinger" model="STG-3R" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>359</battle_value>
@@ -17728,7 +17728,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thorn" model="THE-F" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>510</battle_value>
@@ -17813,7 +17813,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thorn" model="THE-S" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>510</battle_value>
@@ -17898,7 +17898,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thorn" model="THE-T" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>500</battle_value>
@@ -17983,7 +17983,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thug" model="THG-10E" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1501</battle_value>
@@ -18074,7 +18074,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thunderbolt" model="TDR-5S" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1335</battle_value>
@@ -18198,7 +18198,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thunderbolt" model="TDR-5SE" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1414</battle_value>
@@ -18306,7 +18306,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thunderbolt" model="TDR-5SS" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1337</battle_value>
@@ -18411,7 +18411,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-5J" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1191</battle_value>
@@ -18508,7 +18508,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-5N" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1191</battle_value>
@@ -18602,7 +18602,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-5S" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>984</battle_value>
@@ -18704,7 +18704,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-7K" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>996</battle_value>
@@ -18789,7 +18789,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Urbanmech" model="UM-R60" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>504</battle_value>
@@ -18877,7 +18877,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Urbanmech" model="UM-R60L" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>470</battle_value>
@@ -18965,7 +18965,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Valkyrie" model="VLK-QA" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>723</battle_value>
@@ -19052,7 +19052,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Valkyrie" model="VLK-QF" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>653</battle_value>
@@ -19139,7 +19139,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-9A" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1236</battle_value>
@@ -19268,7 +19268,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-9A1" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1302</battle_value>
@@ -19392,7 +19392,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-9B" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1378</battle_value>
@@ -19501,7 +19501,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-9S" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1360</battle_value>
@@ -19610,7 +19610,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-1AA &quot;Avenging Angel&quot;" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>966</battle_value>
@@ -19709,7 +19709,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-1R (Vong)" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1024</battle_value>
@@ -19809,7 +19809,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-1R" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1024</battle_value>
@@ -19909,7 +19909,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-1SIC" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1020</battle_value>
@@ -20008,7 +20008,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-1X" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1008</battle_value>
@@ -20117,7 +20117,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulcan" model="VL-2T" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>642</battle_value>
@@ -20216,7 +20216,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulcan" model="VL-5T" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>942</battle_value>
@@ -20322,7 +20322,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Warhammer" model="WHM-6D" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1471</battle_value>
@@ -20420,7 +20420,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Warhammer" model="WHM-6K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1305</battle_value>
@@ -20528,7 +20528,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Warhammer" model="WHM-6L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1311</battle_value>
@@ -20644,7 +20644,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Warhammer" model="WHM-6R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1299</battle_value>
@@ -20765,7 +20765,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wasp" model="WSP-1A" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>384</battle_value>
@@ -20854,7 +20854,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wasp" model="WSP-1D" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>403</battle_value>
@@ -20948,7 +20948,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wasp" model="WSP-1K" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>376</battle_value>
@@ -21037,7 +21037,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wasp" model="WSP-1L" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>335</battle_value>
@@ -21121,7 +21121,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wasp" model="WSP-1W" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>373</battle_value>
@@ -21225,7 +21225,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-0" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>863</battle_value>
@@ -21334,7 +21334,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-1" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>982</battle_value>
@@ -21439,7 +21439,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-1S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>917</battle_value>
@@ -21548,7 +21548,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-1" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>949</battle_value>
@@ -21634,7 +21634,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-1A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>967</battle_value>
@@ -21716,7 +21716,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-1B" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>967</battle_value>
@@ -21802,7 +21802,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolverine" model="WVR-6K" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1248</battle_value>
@@ -21899,7 +21899,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolverine" model="WVR-6M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1291</battle_value>
@@ -21994,7 +21994,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolverine" model="WVR-6R" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1101</battle_value>
@@ -22087,7 +22087,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wyvern" model="WVE-6N" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1005</battle_value>
@@ -22193,7 +22193,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-5S" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1474</battle_value>
@@ -22294,7 +22294,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-5T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1729</battle_value>
@@ -22402,7 +22402,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-6S" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1348</battle_value>
@@ -22501,7 +22501,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-6T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1436</battle_value>
@@ -22597,7 +22597,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Annihilator" model="ANH-1A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1434</battle_value>
@@ -22726,7 +22726,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Annihilator" model="ANH-2A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Annihilator.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1595</battle_value>
@@ -22864,7 +22864,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Annihilator" model="ANH-3A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Annihilator.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1712</battle_value>
@@ -23029,7 +23029,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Annihilator" model="ANH-4A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Annihilator.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1726</battle_value>
@@ -23155,7 +23155,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Annihilator" model="C 2" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Annihilator.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2722</battle_value>
@@ -23304,7 +23304,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Annihilator" model="C" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Annihilator.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2520</battle_value>
@@ -23450,7 +23450,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Assassin" model="ASN-23" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Assassin.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>740</battle_value>
@@ -23534,7 +23534,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Assassin" model="ASN-30" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Assassin.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>925</battle_value>
@@ -23632,7 +23632,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Assassin" model="ASN-99" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Assassin.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1116</battle_value>
@@ -23748,7 +23748,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Assassin" model="&quot;Servitor&quot;" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Assassin.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1019</battle_value>
@@ -23857,7 +23857,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-C" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2163</battle_value>
@@ -23995,7 +23995,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-CM" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2036</battle_value>
@@ -24132,7 +24132,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-K-DC" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2158</battle_value>
@@ -24259,7 +24259,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-K" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2175</battle_value>
@@ -24396,7 +24396,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-S" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1929</battle_value>
@@ -24538,7 +24538,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-S2" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2378</battle_value>
@@ -24667,7 +24667,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="AS7-S3" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2378</battle_value>
@@ -24808,7 +24808,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Atlas" model="C" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2174</battle_value>
@@ -24935,7 +24935,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-10KM" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\\CBT\\Record Sheets\\Mech Images\\Awesome.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1961</battle_value>
@@ -25037,7 +25037,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-9M" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\\CJ\\HeavyMetalbv2\\Pro\\Bmps\\3025 Awesome1.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1812</battle_value>
@@ -25144,7 +25144,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-9Ma" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\\CJ\\HeavyMetalbv2\\Pro\\Bmps\\3025 Awesome1.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1836</battle_value>
@@ -25242,7 +25242,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-9Q (Klatt)" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1805</battle_value>
@@ -25341,7 +25341,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Awesome" model="AWS-9Q" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1875</battle_value>
@@ -25440,7 +25440,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Axman" model="AXM-1N" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1374</battle_value>
@@ -25566,7 +25566,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Axman" model="AXM-2N" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1458</battle_value>
@@ -25696,7 +25696,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Axman" model="AXM-3S" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1649</battle_value>
@@ -25832,7 +25832,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Axman" model="AXM-4D" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1222</battle_value>
@@ -25960,7 +25960,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-5S (Sawyer)" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2094</battle_value>
@@ -26081,7 +26081,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-5S (Vandergriff)" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1853</battle_value>
@@ -26187,7 +26187,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-5S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2065</battle_value>
@@ -26306,7 +26306,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-6S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1889</battle_value>
@@ -26440,7 +26440,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-7S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2126</battle_value>
@@ -26568,7 +26568,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-8S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2408</battle_value>
@@ -26711,7 +26711,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Banshee" model="BNC-9S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2496</battle_value>
@@ -26838,7 +26838,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-2" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1148</battle_value>
@@ -26943,7 +26943,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-3" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1271</battle_value>
@@ -27042,7 +27042,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ-4" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1063</battle_value>
@@ -27173,7 +27173,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Caesar" model="CES-3R &quot;Archangel&quot;" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2098</battle_value>
@@ -27288,7 +27288,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Caesar" model="CES-3R &quot;Gertrude&quot;" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1833</battle_value>
@@ -27417,7 +27417,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Caesar" model="CES-3R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1578</battle_value>
@@ -27526,7 +27526,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Caesar" model="CES-3S" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1909</battle_value>
@@ -27652,7 +27652,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Caesar" model="CES-4R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2024</battle_value>
@@ -27781,7 +27781,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Caesar" model="CES-4S" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1739</battle_value>
@@ -27906,7 +27906,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-3D" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1325</battle_value>
@@ -28032,7 +28032,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-3L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1545</battle_value>
@@ -28140,7 +28140,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-3LL" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1664</battle_value>
@@ -28263,7 +28263,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-4L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2002</battle_value>
@@ -28390,7 +28390,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-4X" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1216</battle_value>
@@ -28502,7 +28502,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cataphract" model="CTF-5D" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1742</battle_value>
@@ -28630,7 +28630,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C2" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1346</battle_value>
@@ -28755,7 +28755,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C3" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1368</battle_value>
@@ -28857,7 +28857,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C4C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1449</battle_value>
@@ -28968,7 +28968,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C5" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1748</battle_value>
@@ -29101,7 +29101,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-C6" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1874</battle_value>
@@ -29241,7 +29241,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-H2" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1473</battle_value>
@@ -29365,7 +29365,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-K2K" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1716</battle_value>
@@ -29451,7 +29451,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-K3" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1437</battle_value>
@@ -29555,7 +29555,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-K4" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1880</battle_value>
@@ -29662,7 +29662,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Catapult" model="CPLT-K5" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1457</battle_value>
@@ -29799,7 +29799,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN10-B" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1243</battle_value>
@@ -29919,7 +29919,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-D" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1130</battle_value>
@@ -30037,7 +30037,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-D3" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1324</battle_value>
@@ -30164,7 +30164,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-D3D" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1373</battle_value>
@@ -30285,7 +30285,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-D4D" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1369</battle_value>
@@ -30406,7 +30406,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-D5" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1738</battle_value>
@@ -30528,7 +30528,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-D9" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1638</battle_value>
@@ -30662,7 +30662,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-YLW2 &quot;Yen Lo Wang&quot;" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1435</battle_value>
@@ -30767,7 +30767,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-2A2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1109</battle_value>
@@ -30870,7 +30870,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-3K" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1656</battle_value>
@@ -30991,7 +30991,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1592</battle_value>
@@ -31117,7 +31117,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-KMZ" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1781</battle_value>
@@ -31232,7 +31232,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Charger" model="CGR-SA5" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2105</battle_value>
@@ -31365,7 +31365,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-3F" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1329</battle_value>
@@ -31478,7 +31478,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-3G" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1270</battle_value>
@@ -31596,7 +31596,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-3M" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>812</battle_value>
@@ -31685,7 +31685,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-3MA" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1158</battle_value>
@@ -31764,7 +31764,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cicada" model="CDA-3P" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1502</battle_value>
@@ -31848,7 +31848,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-2-3U" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1081</battle_value>
@@ -31932,7 +31932,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-2-3UL" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1245</battle_value>
@@ -32031,7 +32031,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-3-3T" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>901</battle_value>
@@ -32144,7 +32144,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-5U" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1275</battle_value>
@@ -32259,7 +32259,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Clint" model="CLNT-6S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1334</battle_value>
@@ -32379,7 +32379,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-1B" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>616</battle_value>
@@ -32462,7 +32462,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-1C" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>458</battle_value>
@@ -32540,7 +32540,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-4H" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>691</battle_value>
@@ -32643,7 +32643,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-5S" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>557</battle_value>
@@ -32769,7 +32769,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-7B" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>602</battle_value>
@@ -32888,7 +32888,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Commando" model="COM-7S" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>658</battle_value>
@@ -33005,7 +33005,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-11-A-DC" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1507</battle_value>
@@ -33104,7 +33104,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-11-A" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1547</battle_value>
@@ -33213,7 +33213,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-11-C" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1553</battle_value>
@@ -33312,7 +33312,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-11-G" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1981</battle_value>
@@ -33449,7 +33449,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-11-H" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1525</battle_value>
@@ -33577,7 +33577,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cyclops" model="CP-12-K" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1699</battle_value>
@@ -33705,7 +33705,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dervish" model="DV-7D" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1412</battle_value>
@@ -33860,7 +33860,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dervish" model="DV-8D" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1765</battle_value>
@@ -34001,7 +34001,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dervish" model="DV-9D" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1518</battle_value>
@@ -34162,7 +34162,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dragon" model="DRG-5N" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1223</battle_value>
@@ -34261,7 +34261,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dragon" model="DRG-7N" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1495</battle_value>
@@ -34379,7 +34379,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Enforcer" model="ENF-5D" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1308</battle_value>
@@ -34492,7 +34492,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Falcon" model="FLC-4P" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>649</battle_value>
@@ -34589,7 +34589,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Falcon" model="FLC-5P" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>945</battle_value>
@@ -34685,7 +34685,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Falcon" model="FLC-6C" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1290</battle_value>
@@ -34792,7 +34792,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firefly" model="C" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1290</battle_value>
@@ -34914,7 +34914,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firefly" model="FFL-4A" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>831</battle_value>
@@ -35029,7 +35029,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firefly" model="FFL-4B" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>870</battle_value>
@@ -35139,7 +35139,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firefly" model="FFL-4C" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>806</battle_value>
@@ -35263,7 +35263,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firefly" model="FFL-4D" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>897</battle_value>
@@ -35403,7 +35403,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firefly" model="FFL-4DA" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>921</battle_value>
@@ -35538,7 +35538,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-B" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>668</battle_value>
@@ -35656,7 +35656,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-C" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>940</battle_value>
@@ -35790,7 +35790,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-P" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>775</battle_value>
@@ -35929,7 +35929,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-S" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>754</battle_value>
@@ -36063,7 +36063,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-S1" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>820</battle_value>
@@ -36197,7 +36197,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-S2" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>842</battle_value>
@@ -36338,7 +36338,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Firestarter" model="FS9-S3" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>908</battle_value>
@@ -36479,7 +36479,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flea" model="FLE-17" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>510</battle_value>
@@ -36587,7 +36587,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flea" model="FLE-19" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>381</battle_value>
@@ -36691,7 +36691,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flea" model="FLE-20" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>791</battle_value>
@@ -36806,7 +36806,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flea" model="&quot;Fire Ant&quot;" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>332</battle_value>
@@ -36939,7 +36939,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grand Dragon" model="DRG-5K-DC" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1322</battle_value>
@@ -37033,7 +37033,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grand Dragon" model="DRG-5K" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1358</battle_value>
@@ -37132,7 +37132,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grand Dragon" model="DRG-7K" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1702</battle_value>
@@ -37250,7 +37250,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grand Dragon" model="DRG-9KC" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1147</battle_value>
@@ -37351,7 +37351,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grand Dragon" model="DRG-C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1322</battle_value>
@@ -37450,7 +37450,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-5J" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1354</battle_value>
@@ -37567,7 +37567,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-5N" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1511</battle_value>
@@ -37674,7 +37674,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-6K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1597</battle_value>
@@ -37810,7 +37810,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-7K &quot;Gravedigger&quot;" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2084</battle_value>
@@ -37937,7 +37937,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-7K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1806</battle_value>
@@ -38057,7 +38057,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grasshopper" model="GHR-C" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1366</battle_value>
@@ -38174,7 +38174,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Chi" model="HTM-27T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1607</battle_value>
@@ -38293,7 +38293,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Chi" model="HTM-28T (Shin)" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2213</battle_value>
@@ -38438,7 +38438,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Chi" model="HTM-28T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2039</battle_value>
@@ -38566,7 +38566,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Hi" model="HTM-27U" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1627</battle_value>
@@ -38676,7 +38676,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Hi" model="HTM-C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1627</battle_value>
@@ -38790,7 +38790,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Hi" model="HTM-CM" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1573</battle_value>
@@ -38894,7 +38894,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Kaze" model="HTM-27V" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1595</battle_value>
@@ -39023,7 +39023,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Ku" model="HTM-27W" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1563</battle_value>
@@ -39122,7 +39122,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Mizo" model="HTM-27Y" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1675</battle_value>
@@ -39220,7 +39220,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-5D" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1012</battle_value>
@@ -39319,7 +39319,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-5DD" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1112</battle_value>
@@ -39417,7 +39417,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-5K" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1070</battle_value>
@@ -39531,7 +39531,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-5S" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1039</battle_value>
@@ -39649,7 +39649,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-6D" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1611</battle_value>
@@ -39771,7 +39771,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatchetman" model="HCT-6S" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1174</battle_value>
@@ -39894,7 +39894,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-5C" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\\CJ\\HeavyMetalbv2\\Pro\\Bmps\\hermes_ii.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1119</battle_value>
@@ -40013,7 +40013,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-5ME &quot;Mercury Elite&quot;" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>847</battle_value>
@@ -40102,7 +40102,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-5S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>857</battle_value>
@@ -40196,7 +40196,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-5SA" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>924</battle_value>
@@ -40290,7 +40290,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hermes II" model="HER-6D" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1106</battle_value>
@@ -40384,7 +40384,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hoplite" model="C" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1736</battle_value>
@@ -40502,7 +40502,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hoplite" model="HOP-4B" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1162</battle_value>
@@ -40589,7 +40589,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hoplite" model="HOP-4C" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>986</battle_value>
@@ -40676,7 +40676,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hoplite" model="HOP-4D" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1022</battle_value>
@@ -40768,7 +40768,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hornet" model="HNT-161" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>511</battle_value>
@@ -40899,7 +40899,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hornet" model="HNT-171" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>535</battle_value>
@@ -41033,7 +41033,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5H" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1097</battle_value>
@@ -41153,7 +41153,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5M" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1056</battle_value>
@@ -41247,7 +41247,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5N" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1041</battle_value>
@@ -41341,7 +41341,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5P" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1340</battle_value>
@@ -41460,7 +41460,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5S" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1350</battle_value>
@@ -41588,7 +41588,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5SG" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1577</battle_value>
@@ -41712,7 +41712,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-5SS" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1342</battle_value>
@@ -41844,7 +41844,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-6N" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1130</battle_value>
@@ -41950,7 +41950,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-6S" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1380</battle_value>
@@ -42059,7 +42059,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Imp" model="C" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>3070</battle_value>
@@ -42186,7 +42186,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Imp" model="IMP-2E" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1969</battle_value>
@@ -42308,7 +42308,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Imp" model="IMP-3E" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1906</battle_value>
@@ -42440,7 +42440,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Imp" model="IMP-4E" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2263</battle_value>
@@ -42573,7 +42573,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM6-DD" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>965</battle_value>
@@ -42706,7 +42706,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM6-DG" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1625</battle_value>
@@ -42839,7 +42839,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM6-DGr" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1661</battle_value>
@@ -42972,7 +42972,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM6-H" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1348</battle_value>
@@ -43100,7 +43100,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM7-D" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1500</battle_value>
@@ -43225,7 +43225,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM7-F" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1774</battle_value>
@@ -43354,7 +43354,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="JagerMech" model="JM7-G" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1275</battle_value>
@@ -43497,7 +43497,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-10P" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>590</battle_value>
@@ -43593,7 +43593,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-11A &quot;Fire Javelin&quot;" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1073</battle_value>
@@ -43713,7 +43713,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-11B" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>678</battle_value>
@@ -43829,7 +43829,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-11D" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1104</battle_value>
@@ -43950,7 +43950,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Javelin" model="JVN-11F" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>827</battle_value>
@@ -44055,7 +44055,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-C" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>832</battle_value>
@@ -44172,7 +44172,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-C2" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>769</battle_value>
@@ -44302,7 +44302,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-C3" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1069</battle_value>
@@ -44410,7 +44410,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jenner" model="JR7-K" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>889</battle_value>
@@ -44527,7 +44527,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Katana (Crockett)" model="CRK-5003-2" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1629</battle_value>
@@ -44657,7 +44657,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Katana (Crockett)" model="CRK-5003-C" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1618</battle_value>
@@ -44782,7 +44782,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Katana (Crockett)" model="CRK-5003-CJ" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1844</battle_value>
@@ -44914,7 +44914,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Katana (Crockett)" model="CRK-5003-CM" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1554</battle_value>
@@ -45029,7 +45029,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mauler" model="MAL-1K" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1622</battle_value>
@@ -45183,7 +45183,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mauler" model="MAL-1R" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1460</battle_value>
@@ -45337,7 +45337,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mauler" model="MAL-2R" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1586</battle_value>
@@ -45492,7 +45492,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mauler" model="MAL-3R" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1877</battle_value>
@@ -45641,7 +45641,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mauler" model="MAL-C" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1473</battle_value>
@@ -45795,7 +45795,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-K (Kerensky)" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1821</battle_value>
@@ -45913,7 +45913,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-M-DC" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1444</battle_value>
@@ -46042,7 +46042,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-M" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1414</battle_value>
@@ -46181,7 +46181,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-MA" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1501</battle_value>
@@ -46305,7 +46305,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-MB" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1472</battle_value>
@@ -46439,7 +46439,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-MC" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1501</battle_value>
@@ -46563,7 +46563,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON1-MD" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1597</battle_value>
@@ -46707,7 +46707,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Orion" model="ON2-M" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\\CJ\\HeavyMetalbv2\\Pro\\Bmps\\3025 Orion1.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1828</battle_value>
@@ -46844,7 +46844,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-10K" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>838</battle_value>
@@ -46952,7 +46952,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-10KA" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>797</battle_value>
@@ -47060,7 +47060,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-12A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>982</battle_value>
@@ -47175,7 +47175,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-14S" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>825</battle_value>
@@ -47280,7 +47280,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-16K" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>988</battle_value>
@@ -47397,7 +47397,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-C" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>833</battle_value>
@@ -47510,7 +47510,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Panther" model="PNT-CA" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>787</battle_value>
@@ -47623,7 +47623,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-5K" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1265</battle_value>
@@ -47749,7 +47749,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-5K2" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1312</battle_value>
@@ -47875,7 +47875,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-5M" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1237</battle_value>
@@ -47997,7 +47997,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-8K" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1583</battle_value>
@@ -48132,7 +48132,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1225</battle_value>
@@ -48258,7 +48258,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-3L" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>708</battle_value>
@@ -48389,7 +48389,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-3M" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>659</battle_value>
@@ -48514,7 +48514,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-4L" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>873</battle_value>
@@ -48637,7 +48637,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-4LC" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>871</battle_value>
@@ -48765,7 +48765,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-SR &quot;Shattered Raven&quot;" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>601</battle_value>
@@ -48891,7 +48891,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven" model="RVN-SS &quot;Shattered Raven&quot;" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>904</battle_value>
@@ -49023,7 +49023,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shogun" model="C" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>3032</battle_value>
@@ -49166,7 +49166,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shogun" model="SHG-2E" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1823</battle_value>
@@ -49293,7 +49293,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shogun" model="SHG-2F (Trisha)" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1733</battle_value>
@@ -49419,7 +49419,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shogun" model="SHG-2F" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1804</battle_value>
@@ -49546,7 +49546,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-7K" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>752</battle_value>
@@ -49655,7 +49655,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-7K2" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>884</battle_value>
@@ -49758,7 +49758,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-7KC" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>732</battle_value>
@@ -49867,7 +49867,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-7M" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>621</battle_value>
@@ -49976,7 +49976,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-8M" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>621</battle_value>
@@ -50085,7 +50085,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Spider" model="SDR-C" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>616</battle_value>
@@ -50199,7 +50199,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-3F Jamison" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2707</battle_value>
@@ -50343,7 +50343,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-5M" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1655</battle_value>
@@ -50499,7 +50499,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-5S" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1423</battle_value>
@@ -50658,7 +50658,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-6M" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2029</battle_value>
@@ -50805,7 +50805,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-7D" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1872</battle_value>
@@ -50932,7 +50932,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stalker" model="STK-8S" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2020</battle_value>
@@ -51048,7 +51048,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-3C" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1342</battle_value>
@@ -51181,7 +51181,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-7M" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1348</battle_value>
@@ -51322,7 +51322,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-8B" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1314</battle_value>
@@ -51464,7 +51464,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-9K" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1329</battle_value>
@@ -51595,7 +51595,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="UrbanMech" model="UM-R63" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>540</battle_value>
@@ -51688,7 +51688,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="UrbanMech" model="UM-R68" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>561</battle_value>
@@ -51786,7 +51786,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="UrbanMech" model="UM-R69" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>589</battle_value>
@@ -51892,7 +51892,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="UrbanMech" model="UM-R70" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>724</battle_value>
@@ -52004,7 +52004,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1925</battle_value>
@@ -52113,7 +52113,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-10D" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1894</battle_value>
@@ -52253,7 +52253,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-10L" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2279</battle_value>
@@ -52400,7 +52400,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-10S" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2034</battle_value>
@@ -52539,7 +52539,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-11D" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2021</battle_value>
@@ -52672,7 +52672,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-9K" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1717</battle_value>
@@ -52800,7 +52800,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Victor" model="VTR-C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1717</battle_value>
@@ -52932,7 +52932,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-3L" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1105</battle_value>
@@ -53031,7 +53031,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-4L" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1411</battle_value>
@@ -53149,7 +53149,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-5L" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1484</battle_value>
@@ -53267,7 +53267,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-6L" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1739</battle_value>
@@ -53407,7 +53407,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulcan" model="VT-5M" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>811</battle_value>
@@ -53516,7 +53516,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulcan" model="VT-5S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>883</battle_value>
@@ -53638,7 +53638,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulcan" model="VT-6C" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>959</battle_value>
@@ -53751,7 +53751,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulcan" model="VT-6M" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>959</battle_value>
@@ -53876,7 +53876,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-1H" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>993</battle_value>
@@ -54015,7 +54015,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-2" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>936</battle_value>
@@ -54110,7 +54110,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-2A" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1055</battle_value>
@@ -54244,7 +54244,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-3" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>882</battle_value>
@@ -54351,7 +54351,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-K" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>819</battle_value>
@@ -54447,7 +54447,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolf Trap (Tora)" model="WFT-1" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1070</battle_value>
@@ -54560,7 +54560,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolf Trap (Tora)" model="WFT-2" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1227</battle_value>
@@ -54688,7 +54688,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolf Trap (Tora)" model="WFT-B" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1021</battle_value>
@@ -54806,7 +54806,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolf Trap (Tora)" model="WFT-C" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1001</battle_value>
@@ -54919,7 +54919,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound IIC" model="&quot;Grinner&quot;" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1579</battle_value>
@@ -55028,7 +55028,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-1 (Allard)" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1941</battle_value>
@@ -55121,7 +55121,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-2" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1061</battle_value>
@@ -55207,7 +55207,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-3S" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1176</battle_value>
@@ -55309,7 +55309,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-4W" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1090</battle_value>
@@ -55409,7 +55409,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Wolfhound" model="WLF-4WA" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1050</battle_value>
@@ -55504,7 +55504,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-10WB" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2075</battle_value>
@@ -55617,7 +55617,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-9S-DC" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1612</battle_value>
@@ -55724,7 +55724,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-9S" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1639</battle_value>
@@ -55837,7 +55837,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-9S2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1769</battle_value>
@@ -55965,7 +55965,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-9T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1835</battle_value>
@@ -56088,7 +56088,7 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-    `<?xml version="1.0" encoding ="UTF-8"?>
+  `<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus-X" model="ZEU-9WD" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1716</battle_value>
@@ -56198,5 +56198,4 @@ export const sswMechs: string[] = [
     </fluff>
 </mech>
 `,
-
 ];

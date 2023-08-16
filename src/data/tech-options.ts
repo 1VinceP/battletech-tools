@@ -5,15 +5,14 @@ import { ITechOptions } from "./data-interfaces";
  */
 
 export const btTechOptions: ITechOptions[] = [
-	{
-		id: 1,
-		tag: "is",
-		name: 'Inner Sphere',
-	},
-	{
-		id: 2,
-		tag: "clan",
-		name: 'Clan',
-	}
+  {
+    id: 1,
+    tag: "is",
+    name: "Inner Sphere",
+  },
+  {
+    id: 2,
+    tag: "clan",
+    name: "Clan",
+  },
 ];
-
